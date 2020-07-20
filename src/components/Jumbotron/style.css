@@ -1,0 +1,9 @@
+.jumbotron {
+    background-color: rgba(4, 7, 153, 0.596);
+    color: white;
+    justify-content: center;
+    display: flex;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
