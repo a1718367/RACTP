@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70876934f76e51d60865b2e62ca432ab",
+    "revision": "715bdbca452aa1b66c69427b86d56f17",
     "url": "/RACTP/index.html"
   },
   {
-    "revision": "9b2c61c9430f2bc2ad6d",
+    "revision": "16b948ccdf21525e1f28",
     "url": "/RACTP/static/css/main.9acd8d66.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RACTP/static/js/2.ae4ef755.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b2c61c9430f2bc2ad6d",
-    "url": "/RACTP/static/js/main.0cce2d56.chunk.js"
+    "revision": "16b948ccdf21525e1f28",
+    "url": "/RACTP/static/js/main.5c68d612.chunk.js"
   },
   {
     "revision": "e7c7ac8ca5d03141188e",
