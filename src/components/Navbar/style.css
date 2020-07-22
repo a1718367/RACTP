@@ -1,0 +1,15 @@
+.bg{
+background-color: #9797eb;
+
+}
+a{
+    color: #131317;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+.navbar-toggler{
+    border: solid 2px black;
+}
+.navbar-toggle-icon{
+    background-color: black;
+}
